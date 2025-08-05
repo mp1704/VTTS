@@ -8,18 +8,18 @@ This project focuses on developing and fine-tuning state-of-the-art TTS models s
 
 ## 🚀 Available Models
 
-### CSM 1B (Conversational Speech Model)
+### CSM 1B 
 - **Type**: Large Language Model with TTS capabilities
 - **Training**: Fine-tuned with LoRA adapter
 - **Training Data**: 65 hours across 10 speakers
 - **Checkpoint**: [Hugging Face - LoRA Adapter](https://huggingface.co/mp1704/adapter_65h_10speakers)
 
-### VITS (Variational Inference Text-to-Speech)
+### VITS 
 - **Type**: End-to-end neural TTS model
 - **Training Data**: 6 hours 40 minutes of radio speech data
 - **Checkpoint**: [Hugging Face - VITS Model](https://huggingface.co/mp1704/vits_tram_radio_6h40)
 
-
+### F5TTS
 
 ## 📊 Model Performance
 
